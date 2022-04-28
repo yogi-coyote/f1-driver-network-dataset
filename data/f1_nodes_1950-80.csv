@@ -1,7 +1,11 @@
 driverRef,forename,surname,dob,nationality_x
+mansell,Nigel,Mansell,1953-08-08,British
+cesaris,Andrea,de Cesaris,1959-05-31,Italian
+prost,Alain,Prost,1955-02-24,French
 patrese,Riccardo,Patrese,1954-04-17,Italian
 lammers,Jan,Lammers,1956-06-02,Dutch
 piquet,Nelson,Piquet,1952-08-17,Brazilian
+johansson,Stefan,Johansson,1956-09-08,Swedish
 giacomelli,Bruno,Giacomelli,1952-09-10,Italian
 cheever,Eddie,Cheever,1958-01-10,American
 arnoux,René,Arnoux,1948-07-04,French
@@ -11,8 +15,10 @@ tambay,Patrick,Tambay,1949-06-25,French
 surer,Marc,Surer,1951-09-18,Swiss
 keke_rosberg,Keke,Rosberg,1948-12-06,Finnish
 jones,Alan,Jones,1946-11-02,Australian
+manfred_winkelhock,Manfred,Winkelhock,1951-10-06,German
 lauda,Niki,Lauda,1949-02-22,Austrian
 watson,John,Watson,1946-05-04,British
+thackwell,Mike,Thackwell,1961-03-30,New Zealander
 jarier,Jean-Pierre,Jarier,1946-07-10,French
 reutemann,Carlos,Reutemann,1942-04-12,Argentine
 mass,Jochen,Mass,1946-09-30,German
@@ -26,6 +32,7 @@ lees,Geoff,Lees,1951-05-01,British
 keegan,Rupert,Keegan,1955-02-26,British
 rebaque,Hector,Rebaque,1956-02-05,Mexican
 gabbiani,Beppe,Gabbiani,1957-01-02,Italian
+cogan,Kevin,Cogan,1956-03-31,American
 zunino,Ricardo,Zunino,1949-04-13,Argentine
 jabouille,Jean-Pierre,Jabouille,1942-10-01,French
 francia,Giorgio,Francia,1947-11-08,Italian
@@ -33,6 +40,10 @@ depailler,Patrick,Depailler,1944-08-09,French
 scheckter,Jody,Scheckter,1950-01-29,South African
 regazzoni,Clay,Regazzoni,1939-09-05,Swiss
 emerson_fittipaldi,Emerson,Fittipaldi,1946-12-12,Brazilian
+kennedy,Dave,Kennedy,1953-01-15,Irish
+south,Stephen,South,1952-02-19,British
+needell,Tiff,Needell,1951-10-29,British
+desire_wilson,Desiré,Wilson,1953-11-26,South African
 ertl,Harald,Ertl,1948-08-31,Austrian
 brambilla,Vittorio,Brambilla,1937-11-11,Italian
 hunt,James,Hunt,1947-08-29,British

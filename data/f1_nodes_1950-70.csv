@@ -1,6 +1,10 @@
 driverRef,forename,surname,dob,nationality_x
 mario_andretti,Mario,Andretti,1940-02-28,American
+regazzoni,Clay,Regazzoni,1939-09-05,Swiss
+emerson_fittipaldi,Emerson,Fittipaldi,1946-12-12,Brazilian
 ickx,Jacky,Ickx,1945-01-01,Belgian
+peterson,Ronnie,Peterson,1944-02-14,Swedish
+stommelen,Rolf,Stommelen,1943-07-11,German
 oliver,Jackie,Oliver,1942-08-14,British
 amon,Chris,Amon,1943-07-20,New Zealander
 pescarolo,Henri,Pescarolo,1942-09-25,French
@@ -12,12 +16,18 @@ beltoise,Jean-Pierre,Beltoise,1937-04-26,French
 revson,Peter,Revson,1939-02-27,American
 driver,Paddy,Driver,1934-05-13,South African
 redman,Brian,Redman,1937-03-09,British
+schenken,Tim,Schenken,1943-09-26,Australian
+wisell,Reine,Wisell,1941-09-30,Swedish
+gethin,Peter,Gethin,1940-02-21,British
 bell,Derek,Bell,1941-10-31,British
 hobbs,David,Hobbs,1939-06-09,British
 wietzes,Eppie,Wietzes,1938-05-28,Canadian
+cevert,François,Cevert,1944-02-25,French
 stewart,Jackie,Stewart,1939-06-11,British
+galli,Nanni,Galli,1940-10-02,Italian
 adamich,Andrea,de Adamich,1941-10-03,Italian
 pretorius,Jackie,Pretorius,1934-11-22,South African
+roig,Alex,Soler-Roig,1932-10-29,Spanish
 love,John,Love,1924-12-07,Rhodesian
 surtees,John,Surtees,1934-02-11,British
 brack,Bill,Brack,1935-12-26,Canadian
@@ -35,8 +45,11 @@ gavin,Johnny,Servoz-Gavin,1942-01-18,French
 mclaren,Bruce,McLaren,1937-08-30,New Zealander
 courage,Piers,Courage,1942-05-27,British
 klerk,Peter,de Klerk,1935-03-16,South African
+giunti,Ignazio,Giunti,1941-08-30,Italian
 gurney,Dan,Gurney,1931-04-13,American
 hahne,Hubert,Hahne,1935-03-28,German
+hutchison,Gus,Hutchison,1937-04-26,American
+westbury,Peter,Westbury,1938-05-26,British
 tingle,Sam,Tingle,1921-08-24,Rhodesian
 rooyen,Basil,van Rooyen,1939-04-19,South African
 attwood,Richard,Attwood,1940-04-04,British

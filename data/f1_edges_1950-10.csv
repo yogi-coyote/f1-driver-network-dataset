@@ -1,6 +1,7 @@
 driverRef_x,driverRef_y,connection
 hamilton,kovalainen,constructor
 hamilton,alonso,constructor
+hamilton,button,constructor
 heidfeld,kubica,constructor
 heidfeld,vettel,constructor
 heidfeld,villeneuve,constructor
@@ -11,9 +12,11 @@ heidfeld,frentzen,constructor
 heidfeld,massa,constructor
 heidfeld,raikkonen,constructor
 heidfeld,alesi,constructor
+heidfeld,kobayashi,constructor
 rosberg,nakajima,constructor
 rosberg,wurz,constructor
 rosberg,webber,constructor
+rosberg,michael_schumacher,constructor
 alonso,piquet_jr,constructor
 alonso,fisichella,constructor
 alonso,trulli,constructor
@@ -21,7 +24,9 @@ alonso,villeneuve,constructor
 alonso,marques,constructor
 alonso,yoong,constructor
 alonso,grosjean,constructor
+alonso,massa,constructor
 kovalainen,fisichella,constructor
+kovalainen,trulli,constructor
 bourdais,vettel,constructor
 bourdais,buemi,constructor
 raikkonen,massa,constructor
@@ -31,7 +36,9 @@ raikkonen,wurz,constructor
 raikkonen,coulthard,constructor
 raikkonen,badoer,constructor
 raikkonen,fisichella,constructor
+kubica,petrov,constructor
 glock,trulli,constructor
+glock,grassi,constructor
 sato,davidson,constructor
 sato,ide,constructor
 sato,montagny,constructor
@@ -90,6 +97,7 @@ barrichello,capelli,constructor
 barrichello,boutsen,constructor
 barrichello,apicella,constructor
 barrichello,naspetti,constructor
+barrichello,hulkenberg,constructor
 ralf_schumacher,montoya,constructor
 ralf_schumacher,zanardi,constructor
 ralf_schumacher,damon_hill,constructor
@@ -98,6 +106,8 @@ wurz,alesi,constructor
 albers,monteiro,constructor
 albers,friesacher,constructor
 albers,doornbos,constructor
+yamamoto,chandhok,constructor
+yamamoto,bruno_senna,constructor
 michael_schumacher,irvine,constructor
 michael_schumacher,herbert,constructor
 michael_schumacher,verstappen,constructor
@@ -108,6 +118,7 @@ michael_schumacher,cesaris,constructor
 michael_schumacher,piquet,constructor
 montoya,gene,constructor
 montoya,pizzonia,constructor
+klien,bruno_senna,constructor
 monteiro,karthikeyan,constructor
 villeneuve,panis,constructor
 villeneuve,zonta,constructor
@@ -117,6 +128,7 @@ villeneuve,damon_hill,constructor
 rosa,irvine,constructor
 rosa,verstappen,constructor
 rosa,takagi,constructor
+rosa,kobayashi,constructor
 zonta,panis,constructor
 matta,panis,constructor
 panis,nakano,constructor
@@ -4886,6 +4898,7 @@ murray,john_james,constructor
 parker,john_james,constructor
 kelly,crossley,constructor
 levrett,cantrell,constructor
+bruno_senna,chandhok,constructor
 hamilton,coulthard,nation
 hamilton,button,nation
 hamilton,davidson,nation
@@ -4918,9 +4931,18 @@ glock,michael_schumacher,nation
 heidfeld,frentzen,nation
 ralf_schumacher,frentzen,nation
 michael_schumacher,frentzen,nation
+heidfeld,hulkenberg,nation
+rosberg,hulkenberg,nation
+glock,hulkenberg,nation
+sutil,michael_schumacher,nation
+sutil,hulkenberg,nation
+vettel,michael_schumacher,nation
+vettel,hulkenberg,nation
+michael_schumacher,hulkenberg,nation
 alonso,rosa,nation
 alonso,gene,nation
 alonso,alguersuari,nation
+rosa,alguersuari,nation
 kovalainen,raikkonen,nation
 nakajima,sato,nation
 nakajima,yamamoto,nation
@@ -4942,6 +4964,11 @@ pizzonia,matta,nation
 zonta,pizzonia,nation
 massa,bernoldi,nation
 barrichello,bernoldi,nation
+massa,grassi,nation
+massa,bruno_senna,nation
+barrichello,grassi,nation
+barrichello,bruno_senna,nation
+grassi,bruno_senna,nation
 coulthard,wilson,nation
 button,wilson,nation
 coulthard,irvine,nation
@@ -5015,6 +5042,7 @@ barrichello,fittipaldi,nation
 senna,fittipaldi,nation
 wurz,friesacher,nation
 albers,doornbos,nation
+yamamoto,kobayashi,nation
 michael_schumacher,bartels,nation
 klien,friesacher,nation
 rosa,gene,nation

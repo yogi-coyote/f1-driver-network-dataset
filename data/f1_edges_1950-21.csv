@@ -31,6 +31,7 @@ alonso,massa,constructor
 alonso,raikkonen,constructor
 alonso,button,constructor
 alonso,vandoorne,constructor
+alonso,ocon,constructor
 kovalainen,fisichella,constructor
 kovalainen,trulli,constructor
 kovalainen,chandhok,constructor
@@ -51,6 +52,7 @@ raikkonen,vettel,constructor
 raikkonen,giovinazzi,constructor
 kubica,petrov,constructor
 kubica,russell,constructor
+kubica,giovinazzi,constructor
 glock,trulli,constructor
 glock,grassi,constructor
 glock,ambrosio,constructor
@@ -105,6 +107,7 @@ button,vandoorne,constructor
 vettel,liuzzi,constructor
 vettel,ricciardo,constructor
 vettel,leclerc,constructor
+vettel,stroll,constructor
 fisichella,firman,constructor
 fisichella,baumgartner,constructor
 fisichella,wurz,constructor
@@ -3330,6 +3333,7 @@ gasly,sainz,constructor
 gasly,brendon_hartley,constructor
 gasly,max_verstappen,constructor
 gasly,kvyat,constructor
+gasly,tsunoda,constructor
 seidel,herrmann,constructor
 seidel,helfrich,constructor
 seidel,karch,constructor
@@ -4952,10 +4956,12 @@ maldonado,bottas,constructor
 resta,stroll,constructor
 perez,ocon,constructor
 perez,stroll,constructor
+perez,max_verstappen,constructor
 ricciardo,vergne,constructor
 ricciardo,kvyat,constructor
 ricciardo,max_verstappen,constructor
 ricciardo,ocon,constructor
+ricciardo,norris,constructor
 vergne,kvyat,constructor
 pic,garde,constructor
 chilton,jules_bianchi,constructor
@@ -4975,11 +4981,13 @@ stevens,rossi,constructor
 max_verstappen,sainz,constructor
 max_verstappen,albon,constructor
 sainz,norris,constructor
+sainz,leclerc,constructor
 wehrlein,haryanto,constructor
 wehrlein,ocon,constructor
 stroll,sirotkin,constructor
 russell,latifi,constructor
 latifi,aitken,constructor
+mazepin,mick_schumacher,constructor
 hamilton,coulthard,nation
 hamilton,button,nation
 hamilton,davidson,nation
@@ -5126,6 +5134,7 @@ larini,sospiri,nation
 trulli,morbidelli,nation
 fisichella,morbidelli,nation
 webber,ricciardo,nation
+vettel,mick_schumacher,nation
 fisichella,montermini,nation
 badoer,montermini,nation
 barrichello,burti,nation

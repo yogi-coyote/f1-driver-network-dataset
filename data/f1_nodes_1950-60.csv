@@ -1,12 +1,16 @@
 driverRef,forename,surname,dob,nationality_x
 hill,Graham,Hill,1929-02-15,British
+surtees,John,Surtees,1934-02-11,British
 bonnier,Jo,Bonnier,1930-01-31,Swedish
 lovely,Pete,Lovely,1926-04-11,American
 jack_brabham,Jack,Brabham,1926-04-02,Australian
 mclaren,Bruce,McLaren,1937-08-30,New Zealander
 gurney,Dan,Gurney,1931-04-13,American
+clark,Jim,Clark,1936-03-04,British
 bianchi,Lucien,Bianchi,1934-11-10,Belgian
+ginther,Richie,Ginther,1930-08-05,American
 parkes,Mike,Parkes,1931-09-24,British
+vic_wilson,Vic,Wilson,1931-04-14,British
 trevor_taylor,Trevor,Taylor,1936-12-26,British
 phil_hill,Phil,Hill,1927-04-20,American
 ireland,Innes,Ireland,1930-06-12,British
@@ -16,7 +20,10 @@ andre_pilette,André,Pilette,1918-10-06,Belgian
 beaufort,Carel Godin,de Beaufort,1934-04-10,Dutch
 barth,Edgar,Barth,1917-01-26,German
 cabral,Mário de Araújo,Cabral,1934-01-15,Portuguese
+mairesse,Willy,Mairesse,1928-10-01,Belgian
 burgess,Ian,Burgess,1930-07-06,British
+estefano,Nasif,Estéfano,1932-11-18,Argentine
+hall,Jim,Hall,1935-07-23,American
 parnell,Tim,Parnell,1932-06-25,British
 ward,Rodger,Ward,1921-01-10,American
 seidel,Wolfgang,Seidel,1926-07-04,German
@@ -34,18 +41,28 @@ gendebien,Olivier,Gendebien,1924-01-12,Belgian
 scarlatti,Giorgio,Scarlatti,1921-10-02,Italian
 naylor,Brian,Naylor,1923-03-24,British
 fairman,Jack,Fairman,1913-03-15,British
+thiele,Alfonso,Thiele,1920-04-05,American-Italian
+ruby,Lloyd,Ruby,1928-01-12,American
 menditeguy,Carlos,Menditeguy,1914-08-10,Argentine
+larreta,Alberto Rodriguez,Larreta,1934-01-14,Argentine
 gonzalez,José Froilán,González,1922-10-05,Argentine
+bonomi,Roberto,Bonomi,1919-09-30,Argentine
+munaron,Gino,Munaron,1928-04-02,Italian
 schell,Harry,Schell,1921-06-29,American
 stacey,Alan,Stacey,1933-08-29,British
+chimeri,Ettore,Chimeri,1921-06-04,Venezuelan
+creus,Antonio,Creus,1924-10-28,Spanish
 bristow,Chris,Bristow,1937-12-02,British
 halford,Bruce,Halford,1931-05-18,British
+daigh,Chuck,Daigh,1923-11-29,American
+reventlow,Lance,Reventlow,1936-02-24,American
 rathmann,Jim,Rathmann,1928-07-16,American
 goldsmith,Paul,Goldsmith,1925-10-02,American
 branson,Don,Branson,1920-06-02,American
 thomson,Johnny,Thomson,1922-04-09,American
 johnson,Eddie,Johnson,1919-02-10,American
 veith,Bob,Veith,1926-11-01,American
+tingelstad,Bud,Tingelstad,1928-04-04,American
 christie,Bob,Christie,1924-04-04,American
 amick,Red,Amick,1929-01-19,American
 darter,Duane,Carter,1913-05-05,American
@@ -54,11 +71,13 @@ hartley,Gene,Hartley,1926-01-28,American
 stevenson,Chuck,Stevenson,1919-10-15,American
 grim,Bobby,Grim,1924-09-04,American
 templeman,Shorty,Templeman,1919-08-12,American
+hurtubise,Jim,Hurtubise,1932-12-05,American
 bryan,Jimmy,Bryan,1926-01-28,American
 ruttman,Troy,Ruttman,1930-03-11,American
 sachs,Eddie,Sachs,1927-05-28,American
 freeland,Don,Freeland,1925-03-25,American
 bettenhausen,Tony,Bettenhausen,1916-09-12,American
+weiler,Wayne,Weiler,1934-12-09,American
 foyt,Anthony,Foyt,1935-01-16,American
 russo,Eddie,Russo,1925-11-19,American
 boyd,Johnny,Boyd,1926-08-19,American
@@ -72,7 +91,11 @@ mike_taylor,Mike,Taylor,1934-04-24,British
 flockhart,Ron,Flockhart,1923-06-16,British
 piper,David,Piper,1930-12-02,British
 cabianca,Giulio,Cabianca,1923-02-19,Italian
+drogo,Piero,Drogo,1926-08-08,Italian
+gamble,Fred,Gamble,1932-03-17,American
+owen,Arthur,Owen,1915-03-23,British
 gould,Horace,Gould,1918-09-20,British
+drake,Bob,Drake,1919-12-14,American
 bueb,Ivor,Bueb,1923-06-06,British
 Changy,Alain,de Changy,1922-02-05,Belgian
 filippis,Maria,de Filippis,1926-11-11,Italian
